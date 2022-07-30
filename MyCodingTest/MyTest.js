@@ -10,7 +10,7 @@ let question2 = mtf.lowestPositive(numbers)
 console.log('Question 2, Displaying the lowest positive integer that does not appear in the array: ' + question2);
 
 let result = ''
-let userSpeed = 90
+let userSpeed = 10
 let speedLimit = 80
 let question3 = mtf.checkSpeed(userSpeed, speedLimit)
 console.log('Question 3, Displaying the amount of points added to the license: ' + question3);

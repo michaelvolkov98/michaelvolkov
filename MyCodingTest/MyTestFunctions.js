@@ -14,6 +14,7 @@ class MyTestFunctions{
             if (userSpeed > speedLimit ){ result = ((userSpeed - speedLimit) / 5)
             return Math.floor(result)
         } else {
+            return 0
         console.log('You will not be marked with any points')
         }}
     }
